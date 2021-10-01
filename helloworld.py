@@ -1,2 +1,2 @@
 import sys
-print("Hello {}!".format(sys.argv[1]))
+print("Welcome {}!".format(sys.argv[1]))
